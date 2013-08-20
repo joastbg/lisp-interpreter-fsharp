@@ -1,4 +1,4 @@
-list-interpreter-fsharp
+lisp-interpreter-fsharp
 =======================
 
 LISP interpreter written in F#
