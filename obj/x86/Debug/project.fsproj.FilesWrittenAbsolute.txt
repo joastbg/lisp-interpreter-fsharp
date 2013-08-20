@@ -1,0 +1,7 @@
+/Users/johanastborg/Devevlopment/fsharp/lisp-interpreter-fsharp/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.fs
+/Users/johanastborg/Devevlopment/fsharp/lisp-interpreter-fsharp/bin/Debug/ApplicativeFParsec.exe.mdb
+/Users/johanastborg/Devevlopment/fsharp/lisp-interpreter-fsharp/bin/Debug/ApplicativeFParsec.exe
+/Users/johanastborg/Devevlopment/fsharp/lisp-interpreter-fsharp/obj/x86/Debug/ApplicativeFParsec.exe
+/Users/johanastborg/Devevlopment/fsharp/lisp-interpreter-fsharp/obj/x86/Debug/ApplicativeFParsec.exe.mdb
+/Users/johanastborg/Devevlopment/fsharp/lisp-interpreter-fsharp/bin/Debug/FParsec.dll
+/Users/johanastborg/Devevlopment/fsharp/lisp-interpreter-fsharp/bin/Debug/FParsecCS.dll
