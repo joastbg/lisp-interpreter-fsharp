@@ -1,4 +1,4 @@
 lisp-interpreter-fsharp
 =======================
 
-LISP interpreter written in F#
+LISP interpreter written in F# using FParsec library
